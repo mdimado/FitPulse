@@ -1,3 +1,8 @@
+
+FitPulse is a React-powered fitness web app, fully stacked with Node.js and Firebase. Seamlessly integrating with Google Fit API, it fetches and analyzes user health data, delivering personalized exercise recommendations based on individual metrics. Features include a convenient BMI calculator and goal-setting functionality for tracking fitness objectives. With React on the front-end, Node.js managing server-side operations, and Firebase for real-time database and authentication, FitPulse offers a dynamic and engaging fitness experience to support users on their health journey.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
